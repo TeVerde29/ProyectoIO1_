@@ -13,6 +13,7 @@ namespace Colores {
 }
 
 // Para limpiar la entrada
+// Gei el que lo lea
 void limpiarEntrada() {
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 }
